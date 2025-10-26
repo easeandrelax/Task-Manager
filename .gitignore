@@ -1,0 +1,43 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# Build directories
+build/
+app/build/
+
+# Gradle files
+.gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Node (if you have any JS tools)
+node_modules/
+
+# Python (if any scripts)
+__pycache__/
+*.pyc
+
+# Other miscellaneous files
+*.class
+*.jar
+*.war
+*.ear

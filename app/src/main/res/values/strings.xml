@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Priority Hub</string>
+    <string name="main_activity_title">Notes</string>
+    <string name="sub_activity_title">New Note</string>
+    <string name="hint_enter_note">Enter your note here...</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

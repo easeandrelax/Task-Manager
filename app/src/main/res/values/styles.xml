@@ -1,0 +1,8 @@
+<resources>
+    <color name="notesapp_purple_500">#6200EE</color>
+    <color name="notesapp_purple_700">#3700B3</color>
+    <color name="notesapp_teal_200">#03DAC5</color>
+    <color name="notesapp_teal_700">#018786</color>
+    <color name="notesapp_white">#FFFFFF</color>
+    <color name="notesapp_black">#000000</color>
+</resources>
